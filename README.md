@@ -14,7 +14,7 @@ Method of collaboration: full stack, every member is responsible for the impleme
 # Project Description
 
 ### Problem (paragraph 1) – Clearly describe the problem the project addresses
-
+The local ice cream shop has a long line during the summer- the prime season for ice cream shop vendors. The wait time discourages quite a few customers, who decide to leave instead of standing in line. This decreases the amount of sales the ice cream shop vendor can make, this also demotivates repeat customers as the wait time is high.   
 
 ### Solution (paragraph 2) – Propose a solution to the identified problem
 
